@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'TSTAR';
+    src: url('TSTAR-Bold.woff2') format('woff2'),
+        url('TSTAR-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TSTAR';
+    src: url('TSTAR-BoldItalic.woff2') format('woff2'),
+        url('TSTAR-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TSTAR Headline';
+    src: url('TSTAR-Headline.woff2') format('woff2'),
+        url('TSTAR-Headline.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TSTAR';
+    src: url('TSTAR-Italic.woff2') format('woff2'),
+        url('TSTAR-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TSTAR';
+    src: url('TSTAR-Medium.woff2') format('woff2'),
+        url('TSTAR-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TSTAR';
+    src: url('TSTAR-MediumItalic.woff2') format('woff2'),
+        url('TSTAR-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TSTAR';
+    src: url('TSTAR-Regular.woff2') format('woff2'),
+        url('TSTAR-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
